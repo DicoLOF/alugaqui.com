@@ -100,7 +100,7 @@
                         <i class="tf-ion-play"></i>
                     </a>
                 </div>
-                <h1>Entre a casa é suaa!</h1>
+                <h1>Entre a casa é sua!</h1>
                 <p>Aqui você pode encontrar uma nova casa ou aluguar a sua bem rapidinho tudo isso na palma da sua mão!</p>
                 <a data-scroll href="#servicos" class="btn btn-transparent">Conheça-nos</a>
             </div>
